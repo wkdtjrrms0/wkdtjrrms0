@@ -8,15 +8,10 @@
     </p>
 </head>
 <hr>
- ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=Eldrick99&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-<img width="430"
-            src="https://github-readme-stats.vercel.app/api?username=wkdtjrrms0&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-
 <body>
     <div align="center">
         <img width="430"
-            src="https://github-readme-stats.vercel.app/api?username=wkdtjrrms0&show_icons=true&theme=dark">
+            src="https://github-readme-stats.vercel.app/api?username=wkdtjrrms0&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdtjrrms0">
     </div>
 </body>
