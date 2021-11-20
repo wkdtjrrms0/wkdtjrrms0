@@ -6,6 +6,6 @@
 </div>
 
 <div>
-<img width = 450px src="https://github-readme-stats.vercel.app/api?username=wkdtjrrms0&show_icons=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=wkdtjrrms0&show_icons=true&theme=dark">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdtjrrms0">
 </div>
