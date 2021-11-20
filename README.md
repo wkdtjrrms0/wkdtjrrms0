@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwkdtjrrms0&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/wkdtjrrms0)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwkdtjrrms0&count_bg=%2369B72A&title_bg=%23785805&icon=spring.svg&icon_color=%2369B72A&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **wkdtjrrms0/wkdtjrrms0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
