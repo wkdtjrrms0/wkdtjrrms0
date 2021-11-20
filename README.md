@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width = 420px src="https://github-readme-stats.vercel.app/api?username=wkdtjrrms0&show_icons=true&theme=dark">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdtjrrms0">
+<img align = left width = 430px src="https://github-readme-stats.vercel.app/api?username=wkdtjrrms0&show_icons=true&theme=dark">
+<img align = right src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdtjrrms0">
